@@ -2,8 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Look and Feel - Custom Properties
 
+Pas custom properties toe in CSS, structuur van de CSS file en maak gebruik van queries.
 
 ## Licentie
 
